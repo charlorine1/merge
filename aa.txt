@@ -2,8 +2,6 @@
 hotfix
 iss53
 第二次修改
-<<<<<<< HEAD
 11111122333
-=======
 mergetool
->>>>>>> mergetoo
+mergetoo
